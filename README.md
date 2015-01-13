@@ -1,4 +1,5 @@
-## Password change plugin for WebMail Lite @ AfterLogic
+### AfterLogic/WebMail Lite - password plugin
+> This plugin is compatible with the installation of postfix/dovecot holding virtual user accounts in a MySQL database.
 
 #### 1. Put the plugin file in 'data/plugins/postfix-dovecot-password/index.php'
 Download or copy index.php from my Git repo and put it in your destination path.
